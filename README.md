@@ -26,12 +26,6 @@
 - Clean Code Practices
 - Modern JavaScript & ES6+
 
-### 🌟 Interests | İlgi Alanları
-- Web Accessibility
-- Progressive Web Apps
-- Modern Frontend Architecture
-- Component-Driven Development
-
 <table>
   <tr>
     <td width="200"><b>🔭 Working on</b></td>
@@ -51,10 +45,6 @@
   </tr>
 </table>
 
-</div>
-
-<div style="flex: 1; text-align: center;">
-  <img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" />
 </div>
 
 </div>
