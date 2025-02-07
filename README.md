@@ -4,6 +4,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MrDemirtas&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <a href="https://mrdemirtas.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-mrdemirtas.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
+  </a>
 </p>
 
 </div>
