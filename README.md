@@ -2,8 +2,8 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=35&duration=4000&pause=1000&color=3B88C3&background=FF000000&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B+I'm+Furkan+Demirta%C5%9F;Frontend+Developer;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrDemirtas&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<p><img src="https://komarev.com/ghpvc/?username=MrDemirtas&color=blueviolet&style=for-the-badge" alt="Profile Views" /></p>
+<p>
   <a href="https://mrdemirtas.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-mrdemirtas.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
   </a>
@@ -81,8 +81,48 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrDemirtas&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 📊 Most Used Languages | En Çok Kullanılan Diller
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDemirtas&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
 ## 📫 Connect | İletişim
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrdemirtas)
 
+<details>
+<summary>İlim İlim Bilmektir - Yunus Emre</summary>
+
+```text
+İlim ilim bilmektir
+İlim kendin' bilmektir
+Sen kendin' bilmezsen
+Ya nice okumaktır
+
+Okumaktan murat ne
+Kişi Hak'kı bilmektir
+Çün okudun bilmezsen
+Ha bir kuru ekmektir
+
+Okudum bildim deme
+Çok taat kıldım deme
+Eğer Hak bilmez isen
+Abes yere gelmektir
+
+Dört kitabın mânâsı
+Bellidir bir elifte
+Sen elifi bilmezsen
+Bu nice okumaktır
+
+Yiğirmi dokuz hece
+Okursun uçtan uca
+Sen elif dersin hoca
+Mânâsı ne demektir
+
+Yunus Emre der hoca
+Gerekse bin var hacca
+Hepisinden iyice
+Bir gönüle girmektir
+```
+</details>
 </div>
