@@ -17,9 +17,9 @@
 
 ## 🚀 About Me | Hakkımda
 
-<img src="https://flagcdn.com/w20/us.png" alt="US Flag" width="20" height="15" style="vertical-align: middle;"> | A passionate frontend developer with 4+ years of experience in creating responsive and user-friendly web applications. Specialized in React ecosystem and modern JavaScript. Love to create clean, efficient, and maintainable code. Currently focusing on building accessible and performant web applications.
+<img src="https://flagcdn.com/us.svg" alt="US Flag" width="20" style="vertical-align: middle;"> | A passionate frontend developer with 4+ years of experience in creating responsive and user-friendly web applications. Specialized in React ecosystem and modern JavaScript. Love to create clean, efficient, and maintainable code. Currently focusing on building accessible and performant web applications.
 
-<img src="https://flagcdn.com/w20/tr.png" alt="TR Flag" width="20" height="15" style="vertical-align: middle;"> | 4+ yıllık deneyime sahip, kullanıcı dostu ve responsive web uygulamaları geliştirmeye odaklanan tutkulu bir frontend geliştiricisi. React ekosistemi ve modern JavaScript konularında uzmanlaşmış. Temiz, verimli ve sürdürülebilir kod yazmayı seviyorum. Şu anda erişilebilir ve yüksek performanslı web uygulamaları geliştirmeye odaklanıyorum.
+<img src="https://flagcdn.com/tr.svg" alt="TR Flag" width="20" style="vertical-align: middle;"> | 4+ yıllık deneyime sahip, kullanıcı dostu ve responsive web uygulamaları geliştirmeye odaklanan tutkulu bir frontend geliştiricisi. React ekosistemi ve modern JavaScript konularında uzmanlaşmış. Temiz, verimli ve sürdürülebilir kod yazmayı seviyorum. Şu anda erişilebilir ve yüksek performanslı web uygulamaları geliştirmeye odaklanıyorum.
 
 ### 💻 Core Skills | Temel Yetenekler
 - Frontend Development (React, Next.js)
