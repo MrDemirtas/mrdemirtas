@@ -17,12 +17,12 @@
 
 ## 🚀 About Me | Hakkımda
 
-<img src="https://flagcdn.com/us.svg" alt="US Flag" width="20" style="vertical-align: middle;"> | A passionate frontend developer with 4+ years of experience in creating responsive and user-friendly web applications. Specialized in React ecosystem and modern JavaScript. Love to create clean, efficient, and maintainable code. Currently focusing on building accessible and performant web applications.
+<img src="https://flagcdn.com/us.svg" alt="US Flag" width="20" style="vertical-align: middle;"> | A passionate frontend developer with 1 years of experience in creating responsive and user-friendly web applications. Specialized in React ecosystem and modern JavaScript. Love to create clean, efficient, and maintainable code. Currently focusing on building accessible and performant web applications.
 
-<img src="https://flagcdn.com/tr.svg" alt="TR Flag" width="20" style="vertical-align: middle;"> | 4+ yıllık deneyime sahip, kullanıcı dostu ve responsive web uygulamaları geliştirmeye odaklanan tutkulu bir frontend geliştiricisi. React ekosistemi ve modern JavaScript konularında uzmanlaşmış. Temiz, verimli ve sürdürülebilir kod yazmayı seviyorum. Şu anda erişilebilir ve yüksek performanslı web uygulamaları geliştirmeye odaklanıyorum.
+<img src="https://flagcdn.com/tr.svg" alt="TR Flag" width="20" style="vertical-align: middle;"> | 1 yıllık deneyime sahip, kullanıcı dostu ve responsive web uygulamaları geliştirmeye odaklanan tutkulu bir frontend geliştiricisi. React ekosistemi ve modern JavaScript konularında uzmanlaşmış. Temiz, verimli ve sürdürülebilir kod yazmayı seviyorum. Şu anda erişilebilir ve yüksek performanslı web uygulamaları geliştirmeye odaklanıyorum.
 
 ### 💻 Core Skills | Temel Yetenekler
-- Frontend Development (React, Next.js)
+- Frontend Development (React, Next.js, TypeScript)
 - Responsive Web Design
 - UI/UX Implementation
 - Web Performance Optimization
@@ -64,6 +64,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-004EB2?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Development Tools & Design
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
