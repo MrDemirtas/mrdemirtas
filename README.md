@@ -1,100 +1,116 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=35&duration=4000&pause=1000&color=3B88C3&background=FF000000&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B+I'm+Furkan+Demirta%C5%9F;Frontend+Developer;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=3500&pause=1000&color=3B88C3&background=FF000000&center=true&vCenter=true&random=false&width=700&lines=Merhaba+%F0%9F%91%8B+Ben+Furkan+Demirta%C5%9F;Frontend+Geli%C5%9Ftirici)](https://git.io/typing-svg)
 
-<p><img src="https://komarev.com/ghpvc/?username=MrDemirtas&color=blueviolet&style=for-the-badge" alt="Profile Views" /></p>
-<p>
+<div>
   <a href="https://mrdemirtas.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-mrdemirtas.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/PORTFÖY-mrdemirtas.com-3B88C3?style=for-the-badge&logoColor=white" alt="Portföy Websitesi" />
   </a>
-</p>
-
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin: 40px 0">
+<a href="https://linkedin.com/in/mrdemirtas" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:furkan-demirtas@outlook.com">
+  <img src="https://img.shields.io/badge/E--posta-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-posta" />
+</a>
 
-<div style="flex: 1;">
-
-## 🚀 About Me | Hakkımda
-
-<img src="https://flagcdn.com/us.svg" alt="US Flag" width="20" style="vertical-align: middle;"> | A passionate frontend developer with 1 years of experience in creating responsive and user-friendly web applications. Specialized in React ecosystem and modern JavaScript. Love to create clean, efficient, and maintainable code. Currently focusing on building accessible and performant web applications.
-
-<img src="https://flagcdn.com/tr.svg" alt="TR Flag" width="20" style="vertical-align: middle;"> | 1 yıllık deneyime sahip, kullanıcı dostu ve responsive web uygulamaları geliştirmeye odaklanan tutkulu bir frontend geliştiricisi. React ekosistemi ve modern JavaScript konularında uzmanlaşmış. Temiz, verimli ve sürdürülebilir kod yazmayı seviyorum. Şu anda erişilebilir ve yüksek performanslı web uygulamaları geliştirmeye odaklanıyorum.
-
-### 💻 Core Skills | Temel Yetenekler
-- Frontend Development (React, Next.js, TypeScript)
-- Responsive Web Design
-- UI/UX Implementation
-- Web Performance Optimization
-- Clean Code Practices
-- Modern JavaScript & ES6+
-
-<table>
-  <tr>
-    <td width="200"><b>🔭 Working on</b></td>
-    <td>Frontend development projects</td>
-  </tr>
-  <tr>
-    <td><b>🌱 Learning</b></td>
-    <td>Advanced React, Next.js</td>
-  </tr>
-  <tr>
-    <td><b>👯 Open to</b></td>
-    <td>Frontend collaborations</td>
-  </tr>
-  <tr>
-    <td><b>📫 Contact</b></td>
-    <td>furkan-demirtas@outlook.com</td>
-  </tr>
-</table>
-
+<div>
+  <img src="https://komarev.com/ghpvc/?username=MrDemirtas&color=blueviolet&style=for-the-badge" alt="Profil Görüntülenme" />
 </div>
 
 </div>
+
+## 🚀 Hakkımda
+
+Modern ve kullanıcı dostu web uygulamaları geliştirmeye tutkulu bir **Frontend Geliştiriciyim**. 1 yıllık profesyonel deneyimimle, özellikle **Next.js** ve **TypeScript** alanında uzmanlaşmış durumdayım. Backend çözümleri için **Supabase** ve **Appwrite** servislerini tercih ediyorum.
+
+Her projemde performans, erişilebilirlik ve kullanıcı deneyimini ön planda tutarak, temiz kod ve sürdürülebilir mimari prensiplerini uyguluyorum. Yazılım dünyasındaki yenilikleri sürekli takip ederek kendimi geliştirmeye devam ediyorum.
+
+## 🛠️ Teknoloji Yığınım
 
 <div align="center">
-
-## 🛠️ Tech Stack | Teknoloji Yığını
-
-<div style="margin: 20px 0">
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-004EB2?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Development Tools & Design
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="Next.js" />
+        <br>Next.js
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScript" />
+        <br>TypeScript
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React" />
+        <br>React
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind CSS" />
+        <br>Tailwind
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=supabase" width="65px" alt="Supabase" />
+        <br>Supabase
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=firebase" width="65px" alt="Appwrite" />
+        <br>Appwrite
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js" width="65px" alt="JavaScript" />
+        <br>JavaScript
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3" />
+        <br>CSS3
+      </td>
+    </tr>
+  </table>
 </div>
 
-## 📊 GitHub Stats | GitHub İstatistikleri
+## 📈 Aktivite Grafiği
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0; place-items: center;">
-  <img style="height: 200px; width: 495px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=MrDemirtas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img style="height: 200px; width: 495px; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com/?user=MrDemirtas&theme=tokyonight&hide_border=true"/>
-</div>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MrDemirtas&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 📊 Most Used Languages | En Çok Kullanılan Diller
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDemirtas&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrDemirtas&theme=react-dark&bg_color=0D1117&color=3B88C3&line=3B88C3&point=FFFFFF&hide_border=true" width="100%" alt="Aktivite Grafiği" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrDemirtas&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=3B88C3&fire=3B88C3&currStreakLabel=3B88C3" alt="GitHub Streak" />
 </div>
 
-## 📫 Connect | İletişim
+## 🏆 Projelerim
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrdemirtas)
+<div align="center">
+  <a href="https://github.com/MrDemirtas/proje-adi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrDemirtas&repo=note-taking-web-app&theme=react&bg_color=0D1117&title_color=3B88C3&icon_color=F8D866&hide_border=true&show_icons=true" alt="Proje 1" />
+  </a>
+  <a href="https://github.com/MrDemirtas/proje-adi-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrDemirtas&repo=portfolio-next&theme=react&bg_color=0D1117&title_color=3B88C3&icon_color=F8D866&hide_border=true&show_icons=true" alt="Proje 2" />
+  </a>
+  <a href="https://github.com/MrDemirtas/proje-adi-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrDemirtas&repo=in-browser-markdown-editor&theme=react&bg_color=0D1117&title_color=3B88C3&icon_color=F8D866&hide_border=true&show_icons=true" alt="Proje 2" />
+  </a>
+  <a href="https://github.com/MrDemirtas/proje-adi-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrDemirtas&repo=hangman-game&theme=react&bg_color=0D1117&title_color=3B88C3&icon_color=F8D866&hide_border=true&show_icons=true" alt="Proje 2" />
+  </a>
+</div>
+
+## 📊 Dil İstatistikleri
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDemirtas&layout=compact&theme=tokyonight&hide_border=true&locale=tr&bg_color=0D1117&title_color=3B88C3&text_color=FFFFFF" alt="En Çok Kullanılan Diller" />
+</div>
+
+<br>
+<br>
+
+<div align="center">
 
 <details>
 <summary>İlim İlim Bilmektir - Yunus Emre</summary>
 
-```text
+```
 İlim ilim bilmektir
 İlim kendin' bilmektir
 Sen kendin' bilmezsen
@@ -125,5 +141,7 @@ Gerekse bin var hacca
 Hepisinden iyice
 Bir gönüle girmektir
 ```
+
 </details>
+
 </div>
