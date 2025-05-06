@@ -55,7 +55,7 @@ Her projemde performans, erişilebilirlik ve kullanıcı deneyimini ön planda t
         <br>Supabase
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=firebase" width="65px" alt="Appwrite" />
+        <img src="https://skillicons.dev/icons?i=appwrite" width="65px" alt="Appwrite" />
         <br>Appwrite
       </td>
       <td align="center">
