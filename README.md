@@ -82,16 +82,16 @@ Her projemde performans, erişilebilirlik ve kullanıcı deneyimini ön planda t
 ## 🏆 Projelerim
 
 <div align="center">
-  <a href="https://github.com/MrDemirtas/proje-adi">
+  <a href="https://github.com/MrDemirtas/note-taking-web-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrDemirtas&repo=note-taking-web-app&theme=react&bg_color=0D1117&title_color=3B88C3&icon_color=F8D866&hide_border=true&show_icons=true" alt="Proje 1" />
   </a>
-  <a href="https://github.com/MrDemirtas/proje-adi-2">
+  <a href="https://github.com/MrDemirtas/portfolio-next">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrDemirtas&repo=portfolio-next&theme=react&bg_color=0D1117&title_color=3B88C3&icon_color=F8D866&hide_border=true&show_icons=true" alt="Proje 2" />
   </a>
-  <a href="https://github.com/MrDemirtas/proje-adi-2">
+  <a href="https://github.com/MrDemirtas/in-browser-markdown-editor">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrDemirtas&repo=in-browser-markdown-editor&theme=react&bg_color=0D1117&title_color=3B88C3&icon_color=F8D866&hide_border=true&show_icons=true" alt="Proje 2" />
   </a>
-  <a href="https://github.com/MrDemirtas/proje-adi-2">
+  <a href="https://github.com/MrDemirtas/hangman-game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrDemirtas&repo=hangman-game&theme=react&bg_color=0D1117&title_color=3B88C3&icon_color=F8D866&hide_border=true&show_icons=true" alt="Proje 2" />
   </a>
 </div>
