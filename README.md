@@ -25,6 +25,7 @@
 <img src="https://flagcdn.com/tr.svg" alt="TR Flag" width="20" style="vertical-align: middle;"> Frontend Geliştirici ve Fullstack Meraklısı olarak modern web uygulamaları geliştirme konusunda deneyim sahibiyim. React, Next.js ve Node.js başta olmak üzere JavaScript ekosisteminde yetkin, TypeScript, veritabanı tasarımı ve cloud deployment alanlarında kendimi geliştiriyorum. Temiz, sürdürülebilir kod yazmaya ve yenilikçi web çözümleri keşfetmeye tutkuluyum.
 
 <div align="center">
+<br />
 
 ### 🎯 Current Focus | Odak Alanlarım
 
@@ -47,21 +48,11 @@
   </tr>
 </table>
 
-<div>
-  <img src="https://komarev.com/ghpvc/?username=MrDemirtas&color=blueviolet&style=for-the-badge" alt="Profil Görüntülenme" />
-</div>
+<br />
 
-## 🛠️ Tech Stack & Expertise | Teknoloji Yığını ve Uzmanlık Alanları
+# 🛠️ Teknoloji Yığınım
 
 ### 🎨 Frontend Development
-
-## 🚀 Hakkımda
-
-Modern ve kullanıcı dostu web uygulamaları geliştirmeye tutkulu bir **Frontend Geliştiriciyim**. 1 yıllık profesyonel deneyimimle, özellikle **Next.js** ve **TypeScript** alanında uzmanlaşmaya çalışıyorum.
-
-Her projemde performans, erişilebilirlik ve kullanıcı deneyimini ön planda tutarak, temiz kod ve sürdürülebilir mimari prensiplerini uyguluyorum. Yazılım dünyasındaki yenilikleri sürekli takip ederek kendimi geliştirmeye devam ediyorum.
-
-## 🛠️ Teknoloji Yığınım
 
 <div align="center">
 
@@ -127,7 +118,9 @@ Her projemde performans, erişilebilirlik ve kullanıcı deneyimini ön planda t
 
 </div>
 
-## 🚀 Featured Projects | Öne Çıkan Projeler
+<br />
+
+# 🚀 Featured Projects | Öne Çıkan Projeler
 
 ### 🎨 Web Applications & Tools | Web Uygulamaları ve Araçlar
 
@@ -158,17 +151,16 @@ Her projemde performans, erişilebilirlik ve kullanıcı deneyimini ön planda t
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MrDemirtas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="46.2%" src="https://github-readme-stats.vercel.app/api?username=MrDemirtas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrDemirtas&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDemirtas&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&exclude_repo=mrdemirtas" />
-</div>
-
-<div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MrDemirtas&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
+</div>
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDemirtas&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&exclude_repo=mrdemirtas" />
 </div>
 
 ## 📫 Let's Connect | Bağlantı Kuralım
