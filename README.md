@@ -6,7 +6,7 @@
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <a href="https://mrdemirtas.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-mrdemirtas.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/PORTFÖY-mrdemirtas.com-3B88C3?style=for-the-badge&logoColor=white" alt="Portföy Websitesi" />
   </a>
   <a href="https://linkedin.com/in/mrdemirtas" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -47,11 +47,21 @@
   </tr>
 </table>
 
+<div>
+  <img src="https://komarev.com/ghpvc/?username=MrDemirtas&color=blueviolet&style=for-the-badge" alt="Profil Görüntülenme" />
 </div>
 
 ## 🛠️ Tech Stack & Expertise | Teknoloji Yığını ve Uzmanlık Alanları
 
 ### 🎨 Frontend Development
+
+## 🚀 Hakkımda
+
+Modern ve kullanıcı dostu web uygulamaları geliştirmeye tutkulu bir **Frontend Geliştiriciyim**. 1 yıllık profesyonel deneyimimle, özellikle **Next.js** ve **TypeScript** alanında uzmanlaşmaya çalışıyorum.
+
+Her projemde performans, erişilebilirlik ve kullanıcı deneyimini ön planda tutarak, temiz kod ve sürdürülebilir mimari prensiplerini uyguluyorum. Yazılım dünyasındaki yenilikleri sürekli takip ederek kendimi geliştirmeye devam ediyorum.
+
+## 🛠️ Teknoloji Yığınım
 
 <div align="center">
 
@@ -125,8 +135,8 @@
 
 | Project                 | Description                                                                       | Tech Stack                                        | Links                                                                                                            |
 | ----------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **📜 Sözden Sese**      | Cultural platform for Turkish folk literature with audio performances             | `TypeScript` `Next.js` `Supabase` `Framer Motion` | [Canlı](https://sozdensese.com/sozdensese)                                                                       |
-| **🔗 Link Sharing App** | Modern social media profile aggregation platform with drag-and-drop functionality | `JavaScript` `Next.js` `Supabase`                 | [Code](https://github.com/MrDemirtas/link-sharing-app)                                                           |
+| **📜 Sözden Sese**      | Cultural platform for Turkish folk literature with audio performances             | `TypeScript` `Next.js` `Supabase` `Framer Motion` | [Live](https://sozdensese.com/sozdensese)                                                                        |
+| **🔗 Link Sharing App** | Modern social media profile aggregation platform with drag-and-drop functionality | `JavaScript` `Next.js` `Supabase`                 | [Code](https://github.com/MrDemirtas/link-sharing-app) • [Live](https://linkly.bernakurt.com)                    |
 | **📝 Note Taking App**  | Feature-rich note-taking application with tagging and theme support               | `JavaScript` `React` `Vite`                       | [Code](https://github.com/MrDemirtas/note-taking-web-app) • [Live](https://note-taking-web-app-seven.vercel.app) |
 
 </div>
@@ -135,12 +145,12 @@
 
 <div align="center">
 
-| Project               | Description                                                        | Tech Stack                                  | Links                                                                                           |
-| --------------------- | ------------------------------------------------------------------ | ------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| **🎯 Kelime Bilmece** | Turkish word guessing game with TDK dictionary integration         | `JavaScript` `HTML` `CSS` `API Integration` | [Code](https://github.com/MrDemirtas/KelimeBilmece) • [Live](https://kelime-bilmece.vercel.app) |
-| **🃏 Pisti Oyunu**    | Traditional Turkish card game implementation with modern interface | `JavaScript` `HTML` `CSS`                   | [Code](https://github.com/MrDemirtas/pisti-oyunu) • [Live](https://pisti-oyunu.vercel.app)      |
-| **🎲 Memory Game**    | Classic memory matching game with customizable difficulty levels   | `JavaScript` `React`                        | [Code](https://github.com/MrDemirtas/memory-game)                                               |
-| **🔤 Hangman Game**   | Interactive word guessing game with modern UI/UX                   | `JavaScript` `React`                        | [Code](https://github.com/MrDemirtas/hangman-game)                                              |
+| Project               | Description                                                        | Tech Stack                                  | Links                                                                                                    |
+| --------------------- | ------------------------------------------------------------------ | ------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **🎯 Kelime Bilmece** | Turkish word guessing game with TDK dictionary integration         | `JavaScript` `HTML` `CSS` `API Integration` | [Code](https://github.com/MrDemirtas/KelimeBilmece) • [Live](https://kelime-bilmece.vercel.app)          |
+| **🃏 Pisti Oyunu**    | Traditional Turkish card game implementation with modern interface | `JavaScript` `HTML` `CSS`                   | [Code](https://github.com/MrDemirtas/pisti-oyunu) • [Live](https://pisti-oyunu.vercel.app)               |
+| **🎲 Memory Game**    | Classic memory matching game with customizable difficulty levels   | `JavaScript` `React`                        | [Code](https://github.com/MrDemirtas/memory-game) • [Live](https://memory-game-six-steel.vercel.app)     |
+| **🔤 Hangman Game**   | Interactive word guessing game with modern UI/UX                   | `JavaScript` `React`                        | [Code](https://github.com/MrDemirtas/hangman-game) • [Live](https://hangman-game-liart-three.vercel.app) |
 
 </div>
 
